@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\repos\DcryptUnit\DcryptUnit\test.cpp(51,21): warning C4018:  “<”: 有符号/无符号不匹配
+  DcryptUnit.vcxproj -> D:\repos\DcryptUnit\Debug\DcryptUnit.exe

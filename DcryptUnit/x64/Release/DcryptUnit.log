@@ -1,0 +1,10 @@
+﻿  chromeDecrypt.cpp
+  test.cpp
+D:\repos\DcryptUnit\DcryptUnit\chromeDecrypt.cpp(49,38): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\repos\DcryptUnit\DcryptUnit\firefoxDecrypt.h(57,5): warning C4267:  “参数”: 从“size_t”转换到“PRUint32”，可能丢失数据
+  正在生成代码
+  0 of 1242 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DcryptUnit.vcxproj -> D:\repos\DcryptUnit\x64\Release\DcryptUnit.exe
